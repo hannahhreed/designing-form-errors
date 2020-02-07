@@ -14,7 +14,7 @@ html {
 }
 
 input:invalid,
-input[type="checkbox"]:invalid + label::before{
+input[type="checkbox"]:invalid + label::before {
   border-color: #f33;
 }
 
